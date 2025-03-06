@@ -1,129 +1,160 @@
-# Hi there 👋 I'm Somesha Hewage
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=someshahewage.someshahewage" />
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Somesha+Hewage!;" />
+</h1>
+
+<h3 align="center">A passionate software engineer from Sri Lanka 🇱🇰</h3>
+
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=someshahewage&style=flat-square&color=blueviolet" alt="Profile Views"/>
-  <a href="https://github.com/someshahewage?tab=followers">
-    <img src="https://img.shields.io/github/followers/someshahewage?style=flat-square&color=blueviolet" alt="Followers"/>
-  </a>
-  <a href="https://github.com/someshahewage?tab=stars">
-    <img src="https://img.shields.io/github/stars/someshahewage?style=flat-square&color=blueviolet" alt="Stars"/>
-  </a>
-</div>
+ 
+ 🌱 I'm continuously learning **MERN Stack Development, UI/UX Design**
 
-<div align="center">
-  <h2>💫 About Me</h2>
-  <p><em>Software Engineer | MERN Stack Developer | UI/UX Designer</em></p>
-</div>
+💬 Ask me about **React, Node.js, MongoDB, JavaScript... or anything [here](https://github.com/someshahewage/someshahewage/issues)**
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=Software+Engineering;MERN+Stack+Development;UI%2FUX+Design;Quality+Assurance;Problem+Solving" alt="Typing SVG" />
-</div>
 
-## 👨‍💻 Professional Summary
-
-Experienced Software Engineer with over one year of hands-on expertise in designing, developing, and testing software applications. Proven ability to optimize system performance and ensure scalability, delivering high-quality, user-centric solutions within tight deadlines. A collaborative team player with strong problem-solving skills and a commitment to continuous learning.
-
-## 🛠️ Tech Stack & Skills
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
-
-### Soft Skills
-- 🧠 Problem Solving
-- 👥 Team Work
-- 📢 Effective Communication
-- 🎨 Creativity
-- 👑 Leadership
-
-## 💼 Work Experience
-
-### Software Engineer
-**Sierra Constructions Pvt (Ltd), Colombo 05** | 2024 - Present
-- Designed intuitive and user-friendly UI/UX interfaces for applications
-- Developed both frontend and backend components of software systems
-- Assisted in creating and implementing software solutions to meet client requirements
-
-### Trainee Software Developer
-**Cybernetic Software Solution, Piliyandala** | 2023 - 2024
-- Conducted comprehensive Quality Assurance (QA) testing
-- Developed and executed test cases to ensure functionality, usability, and performance
-- Identified and documented software defects
-- Collaborated with the development team to resolve issues
-- Contributed to coding tasks, aiding in software development
-
-## 🚀 Projects
-
-### Loan Management System
-- Built with the MERN stack (MongoDB, Express, React, Node.js)
-- Simplifies loan applications, approvals, and repayments
-- Makes loan management easy and efficient
-
-### CV Reader & Job Search Website
-- Application that simplifies job searching and hiring through machine learning
-- Built with Python, Flask, HTML, CSS, and JavaScript
-- Two main modules:
-  - Employee module: Upload CVs, match skills with jobs, and apply
-  - Company module: Post jobs, evaluate candidates, and manage hiring
-
-### RFID-Based Library System
-- Application used to store library records automatically
-- RFID-based system built with Java and MySQL
-- Two components: one for librarians and one for students
-
-### Car Doc Android Application
-- Developed using Android Studio
-- Helps users track vehicle maintenance
-- Set service reminders and store important car documents efficiently
-
-## 🎓 Education
-
-- **B.Sc (Hons) in Information Technology** specialized in Software Engineering  
-  Sri Lanka Technological Campus (SLTC) | 2020 - 2024
-
-- **Advance Level Examination**  
-  St. Mary's Convent Matara | 2019
-
-- **Ordinary Level Examination**  
-  St. Mary's Convent Matara | 2016
-
-## 📜 Certifications
-
-- Foundation of User Experience (UX) Design Course - Coursera
-- Cloud Computing Application, Part 1: Cloud System and Infrastructure - Coursera
-- Python for Beginners Course - University of Moratuwa
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/somesha-hewage-48b571223" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+ 
+ </div>
+ 
+<div align="center"> 
   <a href="mailto:someshahewage@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/somesha-hewage-48b571223" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://someshahewage.github.io/Somesha" target="_blank">
-    <img src="https://img.shields.io/badge/Website-8A2BE2?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
-  </a>
-  <a href="tel:+94710344937">
-    <img src="https://img.shields.io/badge/Phone-4285F4?style=for-the-badge&logo=google-voice&logoColor=white" alt="Phone" />
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
+
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,javascript,html,css,vuejs,dotnet,androidstudio,sqlite,github,figma,vscode" />
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,java,git,flask" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <div align="center">
-  <h3>💻 Let's build something amazing together! 💻</h3>
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 </div>
 
-![Footer Wave](https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer)
+<hr/>
+
+<h2 align="center">💼 Professional Experience</h2>
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Software Engineer</h3>
+        <p><b>Sierra Constructions Pvt (Ltd), Colombo 05</b> | 2024 - Present</p>
+        <ul align="left">
+          <li>Conducting QA testing and developing test cases</li>
+          <li>Identifying software defects and collaborating on fixes</li>
+          <li>Contributing to development tasks and ongoing learning</li>
+        </ul>
+      </td>
+      <td align="center">
+        <h3>Intern Software Engineer </h3>
+        <p><b>Cybernetic Software Solution, Piliyandala</b> | 2023 - 2024</p>
+        <ul align="left">
+           <li>Designing intuitive UI/UX interfaces for applications</li>
+          <li>Developing frontend and backend components</li>
+          <li>Implementing software solutions for client requirements</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🚀 Projects</h2>
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>Loan Management System</h3>
+        <p>MERN stack application that simplifies loan applications, approvals, and repayments.</p>
+      </td>
+      <td align="center">
+        <h3>CV Reader & Job Search Website</h3>
+        <p>ML-based application built with Python, Flask, HTML, CSS, and JavaScript for job matching.</p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>RFID-Based Library System</h3>
+        <p>Java and MySQL application for automated library record management using RFID.</p>
+      </td>
+      <td align="center">
+        <h3>Car Doc Android Application</h3>
+        <p>Android app for vehicle maintenance tracking and service reminders.</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">📊 GitHub Stats</h2>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=someshahewage&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=someshahewage&theme=blue-green&hide_border=false" alt="GitHub Streak Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=someshahewage&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
+</div>
+
+<br/>
+<hr/>
+
+<h2 align="center">🎓 Education & Certifications</h2>
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <h3>B.Sc (Hons) in Information Technology</h3>
+        <p>Specialized in Software Engineering</p>
+        <p><b>Sri Lanka Technological Campus (SLTC)</b> | 2020 - 2024</p>
+      </td>
+    </tr>
+  </table>
+  
+  <h3>Certifications</h3>
+  <ul align="center" style="list-style-position: inside;">
+    <li>Foundation of User Experience (UX) Design - Coursera</li>
+    <li>Cloud Computing Application - Coursera</li>
+    <li>Python for Beginners - University of Moratuwa</li>
+  </ul>
+</div>
+
+<br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+👋;Connect+with+me+on+LinkedIn!;Check+out+my+portfolio+website!;">
+</h3>
+
+<br/>
