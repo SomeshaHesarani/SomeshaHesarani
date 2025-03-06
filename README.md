@@ -35,9 +35,9 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,javascript,html,css,vuejs,dotnet,androidstudio,sqlite,github,figma,vscode" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,javascript,html,css,vuejs,dotnet,androidstudio,sql,github,figma,vscode" />
     <br>
-    <img src="https://skillicons.dev/icons?i=python,java,git,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,git,flask" /><br>
 </div>
 
 <br/>
@@ -60,7 +60,7 @@
   <table>
     <tr>
       <td align="center">
-        <h3>Software Engineer</h3>
+        <h3>Trainee Software Developer </h3>
         <p><b>Sierra Constructions Pvt (Ltd), Colombo 05</b> | 2024 - Present</p>
         <ul align="left">
           <li>Conducting QA testing and developing test cases</li>
