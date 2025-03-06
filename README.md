@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Somesha+Hewage!;" />
 </h1>
 
-<h3 align="center">A passionate software engineer from Sri Lanka 🇱🇰</h3>
+<h3 align="center">A passionate software Engineer </h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🌱 I'm continuously learning **MERN Stack Development, UI/UX Design**
 
-💬 Ask me about **React, Node.js, MongoDB, JavaScript... or anything [here](https://github.com/someshahewage/someshahewage/issues)**
+💬 Ask me about **React, Node.js, MongoDB, JavaScript... or anything.
 
 
  
